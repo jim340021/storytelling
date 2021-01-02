@@ -1,13 +1,13 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'YOUR_ACCESS_TOKEN',
+    style: 'mapbox://styles/mapjim09/ckjc7d1bv1dxb19vwdr54qo6u',
+    accessToken: 'pk.eyJ1IjoibWFwamltMDkiLCJhIjoiNzRId1YtNCJ9.fvr7auc8mRE2wk2LDgnwXQ',
     showMarkers: true,
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: false,
-    title: 'The Title Text of this Story',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
+    title: '7th Century Asia',
+    subtitle: 'A gazetteer of the region',
+    byline: 'WapaMapaBingBong',
     footer: 'Source: source citations, etc.',
     chapters: [
         {
